@@ -1,4 +1,4 @@
-#-----------------Installierungen----------------------------
+#-----------------Installations----------------------------
 #Note: Be aware to have the latest version of python installed!
 
 #get API Key for OpenAI: https://platform.openai.com/api-keys
@@ -10,7 +10,7 @@
 #pip install faiss-cpu
 #pip install nest_asyncio
 
-#-----------Hier startet der Code-----------------------------
+#-----------Code starts here-----------------------------
 #Import of libraries
 from dotenv import load_dotenv
 import os
